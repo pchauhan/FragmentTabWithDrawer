@@ -16,6 +16,9 @@ you can download to see example  for more understanding.
 
 #Sample
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FragmentTabWithDrawer-green.svg?style=flat)](https://android-arsenal.com/details/3/2462)
+
+
 <a href="https://play.google.com/store/apps/details?id=com.sn.fragmenttabwithdrawer">
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
