@@ -3,6 +3,9 @@
 
 FragmentTabWithDrawer is useful for manage group of fragments for each tab .
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FragmentTabWithDrawer-green.svg?style=flat)](https://android-arsenal.com/details/3/2462)
+
+
 ## Screenshot
 
 ![1](https://raw.githubusercontent.com/pchauhan/FragmentTabWithDrawer/master/Screenshots/1.png)![2](https://raw.githubusercontent.com/pchauhan/FragmentTabWithDrawer/master/Screenshots/2.png)![3](https://raw.githubusercontent.com/pchauhan/FragmentTabWithDrawer/master/Screenshots/3.png)
